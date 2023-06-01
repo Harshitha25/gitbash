@@ -1,0 +1,6 @@
+[submodule "DEMO"]
+	path = DEMO
+	url = https://RAHUL-700/DEMO
+[submodule "GITBASHREPO"]
+	path = GITBASHREPO
+	url = https://github.com/RAHUL-700/GITBASHREPO
